@@ -1,2 +1,2 @@
 # NBLstorage
-Hello. This si some text in readme.
+Hello. This is some text in readme.
